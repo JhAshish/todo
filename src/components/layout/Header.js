@@ -4,7 +4,7 @@ import React from 'react';
 function Header(){
     return (
         <header style={headerStyle}>
-            <h1>
+            <h1 style={{color: 'floralwhite'}}>
                 TodoList
             </h1>
         </header>
